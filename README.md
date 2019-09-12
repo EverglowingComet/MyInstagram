@@ -15,11 +15,11 @@ This is simple instagram browser using instagram API
 
 ## Contact Info
 
-**_name_**:		_KmHk_
+**_name_**:		EverglowingComet
 
-**_email_**:	[_kmhk.lu@aol.com_](mailto:kmhk.lu@aol.com)
+**_email_**:	[_everglowingComet@hotmail.com_](mailto:everglowingComet@hotmail.com)
 
-**_git_**:		[_kmhk_](https://github.com/kmhk)
+**_git_**:		[EverglowingComet](https://github.com/EverglowingComet)
 
 
 ## Screen Video
